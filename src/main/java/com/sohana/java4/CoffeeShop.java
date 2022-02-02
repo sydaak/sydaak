@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 public class CoffeeShop {
     public static void main(String[] args) {
-
+        System.out.println("after push in the github");
+        System.out.println("after push in the github");
+        System.out.println("after push in the github");
         Scanner obj= new Scanner(System.in);
         System.out.println("What size of coffee you want? For large press L.For Medium press M. For small press S");
         String size=obj.nextLine();
